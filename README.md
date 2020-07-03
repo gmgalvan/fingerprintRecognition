@@ -48,7 +48,7 @@ python train_fingerprint.py
 ```
 
 ## Descripción
-El modelo es una red neuronal convulocional que se entrno con 1k imagenes reales y 3k generados de forma aumentada.
+El modelo es una red neuronal convulocional que se entrno con 1k imagenes reales y 3k generados de forma aumentada. La base de datos no es de uso público y es necesario que el dataset que se utilice tenga el formato wsq. 
 
 ![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184016.png)
 ![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184100.png)
