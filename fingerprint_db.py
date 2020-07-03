@@ -49,6 +49,11 @@ for i in range(1, 1002):
     label = np.array([int(data['PERSONID']), gender],dtype=np.uint16)
     labels[[i-1]] = label
     
+try:
+    os.makedirs("dataset")
+except FileExistsError:
+    pass
+
 savez_compressed('dataset/X_imgs.npz', imgs)
 np.save('dataset/y_labels.npy', labels)
 
