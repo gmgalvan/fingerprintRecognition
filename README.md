@@ -1,4 +1,5 @@
 # CNN para reconocimiento de huellas dactilares
+Este proyecto fue desarrollado durante la 2da edición de Saturdays.AI Guadalajara
 
 Proyecto para el reconocimiento de huellas de cuerpos postmortem y validación de huella dentro de base de datos mysql.
 
@@ -90,7 +91,10 @@ La salida del modelo es la imagen original con su etiqueta en el lado izquierdo,
 ![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184126.png)
 ![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184151.png)
 
+## Publicación 
+Hemos escrito un artículo en Medium sobre nuestra experiencia en el curso y detalles de la realización del proyecto en [Medium: AI FIngerprint Recognition](https://medium.com/saturdays-ai/ai-fingerprint-recognition-inteligencia-artificial-para-reconocimiento-de-cuerpos-post-mortem-210e1e25dd4)
+
 
 ## Créditos
-El código utilizado esta basado en [fingerprint_recognition](https://github.com/kairess/fingerprint_recognition)
+El código que fue generado durante el proyecto está basado en [fingerprint_recognition](https://github.com/kairess/fingerprint_recognition)
 
