@@ -51,8 +51,8 @@ python train_fingerprint.py
 ## Descripción
 El modelo es una red neuronal convulocional que se entrno con 1k imagenes reales y 3k generados de forma aumentada. La base de datos no es de uso público y es necesario que el dataset que se utilice tenga el formato wsq. 
 
-![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184016.png)
-![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184100.png)
+![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Imagenes/Figure%202020-07-02%20184016.png)
+![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Imagenes/Figure%202020-07-02%20184100.png)
 
 ### La arquitectura de la red
 ```
@@ -87,9 +87,9 @@ __________________________________
 ## Resultados
 La salida del modelo es la imagen original con su etiqueta en el lado izquierdo, en el centro la imagen con mayor porcentage de parentesco y en la derecha una imagen con menor parentesco.
 
-![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184117.png)
-![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184126.png)
-![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Figure%202020-07-02%20184151.png)
+![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Imagenes/Figure%202020-07-02%20184117.png)
+![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Imagenes/Figure%202020-07-02%20184126.png)
+![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Imagenes/Figure%202020-07-02%20184151.png)
 
 ## Publicación 
 Hemos escrito un artículo en Medium sobre nuestra experiencia en el curso y detalles de la realización del proyecto en [Medium: AI FIngerprint Recognition](https://medium.com/saturdays-ai/ai-fingerprint-recognition-inteligencia-artificial-para-reconocimiento-de-cuerpos-post-mortem-210e1e25dd4)
