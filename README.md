@@ -92,7 +92,7 @@ La salida del modelo es la imagen original con su etiqueta en el lado izquierdo,
 ![data](https://github.com/gmgalvan/fingerprintRecognition/blob/master/Imagenes/Figure%202020-07-02%20184151.png)
 
 ## Publicación 
-Hemos escrito un artículo en Medium sobre nuestra experiencia en el curso y detalles de la realización del proyecto en [Medium: AI FIngerprint Recognition](https://medium.com/saturdays-ai/ai-fingerprint-recognition-inteligencia-artificial-para-reconocimiento-de-cuerpos-post-mortem-210e1e25dd4)
+Hemos escrito un artículo en Medium sobre nuestra experiencia en el curso y detalles de la realización del proyecto en Medium: [Parte 1](https://medium.com/saturdays-ai/ai-fingerprint-recognition-inteligencia-artificial-para-reconocimiento-de-cuerpos-post-mortem-210e1e25dd4) [Parte 2](https://medium.com/saturdays-ai/parte-ii-ai-fingerprint-recognition-inteligencia-artificial-para-reconocimiento-de-cuerpos-1a33ea32a192)
 
 
 ## Créditos
